@@ -25,3 +25,4 @@
 	- git stash drop: remove stack top
 	- git stash pop: restore stack topmto current branch and remove stack top
 	- git stash list: check all elements in the stack
+10. git restore: remove all uncached file.
